@@ -1,8 +1,6 @@
 const { expect } = require("@jest/globals");
 const Engineer = require("../lib/Engineer");
 
-// jest.mock("../lib/Engineer.js");
-
 test("creates an Engineer object", () => {
     const engineer = new Engineer("Casey", 10, "email", "Geevaveeri");
 
