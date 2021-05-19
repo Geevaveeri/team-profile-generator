@@ -18,7 +18,7 @@ Clone the repository, go into your terminal and type 'npm install' while in the 
 https://youtu.be/qz7CjbwVibQ
 
 ## Usage
-Go into your terminal and enter in the command 'node index' then follow the prompts
+Go into your terminal and enter in the command 'node index' then follow the prompts. Once you have finished with the prompts you can open the HTML page to see your creation!
 
 ## Contributing
 none
